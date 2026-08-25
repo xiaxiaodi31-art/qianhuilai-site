@@ -1,0 +1,18 @@
+{
+  "name": "钱汇来新旧货交易中心",
+  "short_name": "钱汇来",
+  "description": "福清本地二手回收与新旧货交易中心",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1f3a",
+  "icons": [
+    {
+      "src": "/assets/mascot-lili-profile.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
